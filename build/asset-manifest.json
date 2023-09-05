@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OneHourHusband/static/css/main.e6c13ad2.css",
+    "main.js": "/OneHourHusband/static/js/main.967897ba.js",
+    "static/js/787.7510553f.chunk.js": "/OneHourHusband/static/js/787.7510553f.chunk.js",
+    "static/media/landing_image.png": "/OneHourHusband/static/media/landing_image.2c8408fb579e9f88f801.png",
+    "static/media/decorating.webp": "/OneHourHusband/static/media/decorating.9aba87e45f5130d7b8cf.webp",
+    "static/media/plumbing.jpeg": "/OneHourHusband/static/media/plumbing.9637eaf1bd79c648e366.jpeg",
+    "static/media/flooring.jpg": "/OneHourHusband/static/media/flooring.7384893cf88da365116f.jpg",
+    "static/media/gardening.jpg": "/OneHourHusband/static/media/gardening.a29c90586cc347e2d9f8.jpg",
+    "static/media/tiling.jpg": "/OneHourHusband/static/media/tiling.8df919cf491355b01dee.jpg",
+    "static/media/painting.jpg": "/OneHourHusband/static/media/painting.75cb3e4b748485918bb7.jpg",
+    "static/media/logo.png": "/OneHourHusband/static/media/logo.4310e39b9c98f1d7619d.png",
+    "index.html": "/OneHourHusband/index.html",
+    "main.e6c13ad2.css.map": "/OneHourHusband/static/css/main.e6c13ad2.css.map",
+    "main.967897ba.js.map": "/OneHourHusband/static/js/main.967897ba.js.map",
+    "787.7510553f.chunk.js.map": "/OneHourHusband/static/js/787.7510553f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.967897ba.js"
+  ]
+}
